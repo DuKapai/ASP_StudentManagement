@@ -1,0 +1,409 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|d:\\it\\btec\\4. applied programming and design principles\\code_group\\studentmanagementreal-main\\studentmanagement\\views\\groups\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|solutionrelative:views\\groups\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|d:\\it\\btec\\4. applied programming and design principles\\code_group\\studentmanagementreal-main\\studentmanagement\\views\\accounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|solutionrelative:views\\accounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|d:\\it\\btec\\4. applied programming and design principles\\code_group\\studentmanagementreal-main\\studentmanagement\\properties\\servicedependencies.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|solutionrelative:properties\\servicedependencies.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Properties\\serviceDependencies.local.json.user||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Properties\\serviceDependencies.local.json.user||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|d:\\it\\btec\\4. applied programming and design principles\\code_group\\studentmanagementreal-main\\studentmanagement\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|solutionrelative:properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|d:\\it\\btec\\4. applied programming and design principles\\code_group\\studentmanagementreal-main\\studentmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|d:\\it\\btec\\4. applied programming and design principles\\code_group\\studentmanagementreal-main\\studentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|d:\\it\\btec\\4. applied programming and design principles\\code_group\\studentmanagementreal-main\\studentmanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|d:\\it\\btec\\4. applied programming and design principles\\code_group\\studentmanagementreal-main\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|d:\\it\\btec\\4. applied programming and design principles\\code_group\\studentmanagementreal-main\\studentmanagement\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|d:\\it\\btec\\4. applied programming and design principles\\code_group\\studentmanagementreal-main\\studentmanagement\\controllers\\termscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|solutionrelative:controllers\\termscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|d:\\it\\btec\\4. applied programming and design principles\\code_group\\studentmanagementreal-main\\studentmanagement\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|solutionrelative:controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|d:\\it\\btec\\4. applied programming and design principles\\code_group\\studentmanagementreal-main\\studentmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|d:\\it\\btec\\4. applied programming and design principles\\code_group\\studentmanagementreal-main\\studentmanagement\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|solutionrelative:controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|d:\\it\\btec\\4. applied programming and design principles\\code_group\\studentmanagementreal-main\\studentmanagement\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|solutionrelative:controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|d:\\it\\btec\\4. applied programming and design principles\\code_group\\studentmanagementreal-main\\studentmanagement\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|solutionrelative:controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|d:\\it\\btec\\4. applied programming and design principles\\code_group\\studentmanagementreal-main\\studentmanagement\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|d:\\it\\btec\\4. applied programming and design principles\\code_group\\studentmanagementreal-main\\studentmanagement\\controllers\\group_termcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|solutionrelative:controllers\\group_termcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|d:\\it\\btec\\4. applied programming and design principles\\code_group\\studentmanagementreal-main\\studentmanagement\\controllers\\group_studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|solutionrelative:controllers\\group_studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|d:\\it\\btec\\4. applied programming and design principles\\code_group\\studentmanagementreal-main\\studentmanagement\\views\\shared\\_teacherlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|solutionrelative:views\\shared\\_teacherlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|d:\\it\\btec\\4. applied programming and design principles\\code_group\\studentmanagementreal-main\\studentmanagement\\views\\shared\\_studentlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|solutionrelative:views\\shared\\_studentlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|d:\\it\\btec\\4. applied programming and design principles\\code_group\\studentmanagementreal-main\\studentmanagement\\wwwroot\\ecourses\\online-courses-html-template\\course.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|solutionrelative:wwwroot\\ecourses\\online-courses-html-template\\course.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|d:\\it\\btec\\4. applied programming and design principles\\code_group\\studentmanagementreal-main\\studentmanagement\\views\\courses\\listcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|solutionrelative:views\\courses\\listcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|d:\\it\\btec\\4. applied programming and design principles\\code_group\\studentmanagementreal-main\\studentmanagement\\views\\teachergroups\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B82D655-1F61-47D6-ADBB-00588686AE2E}|StudentManagement.csproj|solutionrelative:views\\teachergroups\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Views\\Groups\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Groups\\Create.cshtml",
+              "ToolTip": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Views\\Groups\\Create.cshtml",
+              "RelativeToolTip": "Views\\Groups\\Create.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAB4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T16:33:58.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Views\\Accounts\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Accounts\\Create.cshtml",
+              "ToolTip": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Views\\Accounts\\Create.cshtml",
+              "RelativeToolTip": "Views\\Accounts\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADgAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T15:05:27.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "serviceDependencies.local.json",
+              "DocumentMoniker": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Properties\\serviceDependencies.local.json",
+              "RelativeDocumentMoniker": "Properties\\serviceDependencies.local.json",
+              "ToolTip": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Properties\\serviceDependencies.local.json",
+              "RelativeToolTip": "Properties\\serviceDependencies.local.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T14:18:58.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "serviceDependencies.local.json.user",
+              "DocumentMoniker": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Properties\\serviceDependencies.local.json.user",
+              "RelativeDocumentMoniker": "Properties\\serviceDependencies.local.json.user",
+              "ToolTip": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Properties\\serviceDependencies.local.json.user",
+              "RelativeToolTip": "Properties\\serviceDependencies.local.json.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-07-31T14:18:57.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "Properties\\serviceDependencies.json",
+              "ToolTip": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "Properties\\serviceDependencies.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T14:18:56.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T14:18:55.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T14:18:31.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T14:18:28.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:17:10.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:16:29.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TermsController.cs",
+              "DocumentMoniker": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Controllers\\TermsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TermsController.cs",
+              "ToolTip": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Controllers\\TermsController.cs",
+              "RelativeToolTip": "Controllers\\TermsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:16:27.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RolesController.cs",
+              "ToolTip": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Controllers\\RolesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:16:27.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:16:26.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GroupsController.cs",
+              "DocumentMoniker": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Controllers\\GroupsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GroupsController.cs",
+              "ToolTip": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Controllers\\GroupsController.cs",
+              "RelativeToolTip": "Controllers\\GroupsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:16:24.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountsController.cs",
+              "ToolTip": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Controllers\\AccountsController.cs",
+              "ViewState": "AQIAAN0AAAAAAAAAAAAiwOYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:48:01.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentsController.cs",
+              "ToolTip": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:16:24.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
+              "ToolTip": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Controllers\\CoursesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:16:23.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Group_termController.cs",
+              "DocumentMoniker": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Controllers\\Group_termController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Group_termController.cs",
+              "ToolTip": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Controllers\\Group_termController.cs",
+              "RelativeToolTip": "Controllers\\Group_termController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:16:25.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Group_studentController.cs",
+              "DocumentMoniker": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Controllers\\Group_studentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Group_studentController.cs",
+              "ToolTip": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Controllers\\Group_studentController.cs",
+              "RelativeToolTip": "Controllers\\Group_studentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:16:25.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Teacherlayout.cshtml",
+              "DocumentMoniker": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Views\\Shared\\_Teacherlayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Teacherlayout.cshtml",
+              "ToolTip": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Views\\Shared\\_Teacherlayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Teacherlayout.cshtml",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAAAIEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T16:45:58.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_StudentLayout.cshtml",
+              "DocumentMoniker": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Views\\Shared\\_StudentLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_StudentLayout.cshtml",
+              "ToolTip": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Views\\Shared\\_StudentLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_StudentLayout.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAwwIYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T19:11:42.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "course.html",
+              "DocumentMoniker": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\wwwroot\\ECOURSES\\online-courses-html-template\\course.html",
+              "RelativeDocumentMoniker": "wwwroot\\ECOURSES\\online-courses-html-template\\course.html",
+              "ToolTip": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\wwwroot\\ECOURSES\\online-courses-html-template\\course.html",
+              "RelativeToolTip": "wwwroot\\ECOURSES\\online-courses-html-template\\course.html",
+              "ViewState": "AQIAAOIAAAAAAAAAAAAAAH4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-29T18:42:34.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ListCourse.cshtml",
+              "DocumentMoniker": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Views\\Courses\\ListCourse.cshtml",
+              "RelativeDocumentMoniker": "Views\\Courses\\ListCourse.cshtml",
+              "ToolTip": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Views\\Courses\\ListCourse.cshtml",
+              "RelativeToolTip": "Views\\Courses\\ListCourse.cshtml",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAABwAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T19:03:11.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Views\\TeacherGroups\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\TeacherGroups\\Index.cshtml",
+              "ToolTip": "D:\\IT\\BTEC\\4. Applied Programming and Design Principles\\Code_Group\\studentmanagementReal-main\\StudentManagement\\Views\\TeacherGroups\\Index.cshtml",
+              "RelativeToolTip": "Views\\TeacherGroups\\Index.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAwwCcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T16:13:42.016Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

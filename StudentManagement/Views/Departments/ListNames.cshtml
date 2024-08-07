@@ -1,0 +1,24 @@
+﻿@model IEnumerable<dynamic>
+@{
+    ViewData["Title"] = "Department Names and Leaders";
+    Layout = "~/Views/Shared/_TeacherLayout.cshtml";
+    var teacherId = ViewBag.TeacherId;
+}
+<h1>@ViewData["Title"]</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Department Name</th>
+            <th>Leader Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Leader</td>
+            </tr>
+        }
+    </tbody>
+</table>

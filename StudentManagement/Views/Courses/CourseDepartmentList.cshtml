@@ -1,0 +1,72 @@
+﻿@model IEnumerable<dynamic>
+
+@{
+    Layout = "~/Views/Shared/_StudentLayout.cshtml";
+    ViewData["Title"] = "Course and Department List";
+}
+<!-- Header Start -->
+<div class="container-fluid page-header" style="margin-bottom: 90px;">
+    <div class="container">
+        <div class="d-flex flex-column justify-content-center" style="min-height: 300px">
+            <h3 class="display-4 text-white text-uppercase">Courses</h3>
+@*             <div class="d-inline-flex text-white">
+                <p class="m-0 text-uppercase"><a class="text-white" href="">Home</a></p>
+                <i class="fa fa-angle-double-right pt-1 px-3"></i>
+                <p class="m-0 text-uppercase">Courses</p>
+            </div> *@
+        </div>
+    </div>
+</div>
+<!-- Header End -->
+<!-- Courses Start -->
+<div class="container-fluid py-5">
+    <div class="container py-5">
+        <div class="text-center mb-5">
+            <h5 class="text-primary text-uppercase mb-3" style="letter-spacing: 5px;">Courses</h5>
+            <h1>Our Popular Courses</h1>
+        </div>
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="rounded overflow-hidden mb-2">
+                        <img class="img-fluid" src="~/ECOURSES/online-courses-html-template/img/01-best-libraries-in-vogue.webp" alt="">
+                        <div class="bg-secondary p-4">
+                            <div class="d-flex justify-content-between mb-3">
+                                <small class="m-0"><i class="fa fa-users text-primary mr-2"></i>@item.TeacherName</small>
+                                <small class="m-0"><i class="far fa-clock text-primary mr-2"></i>01h 30m</small>
+                            </div>
+                            <a class="h5" href="">@item.CourseName</a>
+                            <div class="border-top mt-4 pt-4">
+                                <div class="d-flex justify-content-between">
+                                    <h6 class="m-0"><i class="fa fa-star text-primary mr-2"></i>5 <small>(250)</small></h6>
+                                    <h5 class="m-0">$99</h5>
+                                </div>
+                                <!-- Button Register Course -->
+                                <button class="btn btn-success mt-3" onclick="registerCourse(this)">Register Course</button>
+                                <!-- Thông báo -->
+                                <div class="notification" style="display:none; margin-top:10px;">
+                                    <div class="alert alert-success">
+                                        Please check your email to register the course 
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+<!-- Courses End -->
+
+<script>
+    function registerCourse(button) {
+        // Hiển thị thông báo
+        var notification = button.nextElementSibling;
+        notification.style.display = 'block';
+
+        // Vô hiệu hóa button
+        button.disabled = true;
+    }
+</script>

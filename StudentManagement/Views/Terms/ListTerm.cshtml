@@ -1,0 +1,71 @@
+﻿@model IEnumerable<dynamic>
+@{
+    ViewData["Title"] = "ListTerm";
+    Layout = "~/Views/Shared/_StudentLayout.cshtml";
+}
+<!-- Header Start -->
+<div class="container-fluid page-header" style="margin-bottom: 90px;">
+    <div class="container">
+        <div class="d-flex flex-column justify-content-center" style="min-height: 300px">
+            <h3 class="display-4 text-white text-uppercase">Term</h3>
+            <div class="d-inline-flex text-white">
+                <p class="m-0 text-uppercase"><a asp-area="" asp-controller="Courses" asp-action="CourseDepartmentList">Home</a></p>
+                <i class="fa fa-angle-double-right pt-1 px-3"></i>
+                <p class="m-0 text-uppercase">Term</p>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Header End -->
+<!-- Blog Start -->
+<div class="container-fluid py-5">
+    <div class="container py-5">
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="row pb-3">
+                    @foreach (var item in Model)
+                    {
+                        <div class="col-lg-6 mb-4">
+                            <div class="blog-item position-relative overflow-hidden rounded mb-2">
+                                <img class="img-fluid" src="~/ECOURSES/online-courses-html-template/img/blog-1.jpg" alt="">
+                                <a class="blog-overlay text-decoration-none" href="">
+                                    <h5 class="text-white mb-3">@item.TermName</h5>
+                                    <p class="text-primary m-0">Date: @item.Fromdate - @item.Todate</p>
+                                </a>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+
+            <div class="col-lg-4 mt-5 mt-lg-0">
+                <!-- Author Bio -->
+                <div class="d-flex flex-column text-center bg-dark rounded mb-5 py-5 px-4">
+                    <img src="~/ECOURSES/online-courses-html-template/img/user.jpg" class="img-fluid rounded-circle mx-auto mb-3" style="width: 100px;">
+                    <h3 class="text-primary mb-3">Nguyen Hoang Dung</h3>
+                    <h3 class="text-uppercase mb-4" style="letter-spacing: 5px;">Tag Cloud</h3>
+                    <p class="text-white m-0">As a manager, I am committed to providing the highest quality and most dedicated courses for students.</p>
+                </div>
+                <!-- Category List -->
+                <div class="mb-5">
+                    <h3 class="text-uppercase mb-4" style="letter-spacing: 5px;">Courses that are popular with students</h3>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item d-flex justify-content-between align-items-center px-0">
+                            <a href="" class="text-decoration-none h6 m-0">Web Design and Development</a>
+                            <span class="badge badge-success badge-pill">150</span>
+                        </li>
+                        <li class="list-group-item d-flex justify-content-between align-items-center px-0">
+                            <a href="" class="text-decoration-none h6 m-0">Web Development</a>
+                            <span class="badge badge-success badge-pill">131</span>
+                        </li>
+                        <li class="list-group-item d-flex justify-content-between align-items-center px-0">
+                            <a href="" class="text-decoration-none h6 m-0">Online Marketing</a>
+                            <span class="badge badge-success badge-pill">78</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Blog End -->

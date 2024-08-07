@@ -1,0 +1,79 @@
+﻿@model StudentManagement.Models.Groups
+@{
+    ViewData["Title"] = "Group Details";
+    Layout = "~/Views/Shared/_TeacherLayout.cshtml";
+    var students = ViewBag.Students as IEnumerable<StudentManagement.Models.Group_student>;
+    var teacherId = ViewBag.TeacherId;
+}
+
+<div class="container-fluid page-header" style="margin-bottom: 90px;">
+    <div class="container">
+        <div class="d-flex flex-column justify-content-center" style="min-height: 300px">
+            <h3 class="display-4 text-white text-uppercase">Attendance</h3>
+            <div class="d-inline-flex text-white">
+                <p class="m-0 text-uppercase"><a href="@Url.Action("Index", "TeacherGroups", new { teacherId = teacherId })" class="btn btn-success">Class Room</a></p>
+                <i class="fa fa-angle-double-right pt-1 px-3"></i>
+                <p class="m-0 text-uppercase">Attendance</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-4">
+    <!-- Group Details -->
+    <!-- Students Table -->
+    <div class="card">
+        <div class="card-header bg-success text-white">
+            <h4 class="mb-0 text-center">Students in Group</h4>
+        </div>
+        <div class="card-body">
+            <form asp-action="Attend" method="post" id="attendanceForm">
+                <input type="hidden" name="groupId" value="@Model.Id" />
+                <table class="table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th class="text-center">Student Name</th>
+                            <th class="text-center">Absent</th>
+                            <th class="text-center">Present</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (students != null && students.Any())
+                        {
+                            foreach (var student in students)
+                            {
+                                <tr>
+                                    <td>@student.Accounts?.Users?.Full_name</td>
+                                    <td class="text-center">
+                                        <input type="radio" name="attendanceStatus_@student.Student_id" value="0" @(student.Absent == 1 ? "checked" : "") /> Absent
+                                    </td>
+                                    <td class="text-center">
+                                        <input type="radio" name="attendanceStatus_@student.Student_id" value="1" @(student.Present == 1 ? "checked" : "") /> Present
+                                    </td>
+                                </tr>
+                            }
+                        }
+                        else
+                        {
+                            <tr>
+                                <td colspan="3" class="text-center">No students found.</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+                <!-- Buttons Row -->
+                <div class="d-flex justify-content-end mt-4">
+                    <button type="submit" class="btn btn-success" id="saveButton">Save</button>
+                    <div style="width: 20px;"></div> <!-- Thêm khoảng cách -->
+                    <a href="@Url.Action("Index", "TeacherGroups", new { teacherId = teacherId })" class="btn btn-info">Back to Class Room</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<script>
+    document.getElementById('saveButton').addEventListener('click', function () {
+        alert('Điểm danh thành công');
+    });
+</script>

@@ -1,0 +1,40 @@
+﻿@model IEnumerable<StudentManagement.Models.Groups>
+@{
+    ViewData["Title"] = "Teacher Groups";
+    Layout = "~/Views/Shared/_Teacherlayout.cshtml";
+    int teacherId = (int)ViewBag.TeacherId;
+}
+<!-- About Start -->
+<div class="container-fluid page-header" style="margin-bottom: 90px;">
+    <div class="container">
+        <div class="d-flex flex-column justify-content-center" style="min-height: 300px">
+            <h3 class="display-4 text-white text-uppercase">Class room</h3>
+        </div>
+    </div>
+</div>
+@foreach (var item in Model)
+{
+    <div class="container-fluid py-5">
+        <div class="container py-5">
+            <div class="row align-items-center">
+                <div class="col-lg-5">
+                    <img class="img-fluid rounded mb-4 mb-lg-0" src="~/ECOURSES/online-courses-html-template/img/desktop-wallpaper-beautiful-books.jpg" alt="">
+                </div>
+                <div class="col-lg-7">
+                    <div class="text-left mb-4">
+                        <h5 class="text-success text-uppercase mb-3" style="letter-spacing: 5px;">Department : @item.Departments.Name</h5>
+                        <h1>Name group : @item.Name</h1>
+                    </div>
+                    <p>
+                      Term name : @item.Terms.Name 
+                    </p>
+                    <p>
+                        From date : @item.Terms.From_date
+                        To date : @item.Terms.To_date
+                    </p>
+                    <a href="@Url.Action("GroupDetails", "TeacherGroups", new { groupId = item.Id })" class="btn btn-success py-md-2 px-md-4 font-weight-semi-bold mt-2">Attendance</a>
+                </div>
+            </div>
+        </div>
+    </div>
+}
